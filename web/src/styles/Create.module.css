@@ -1,0 +1,70 @@
+.container {
+	padding: 0;
+}
+
+.toponpage{
+	text-align: center;
+	margin: auto;
+	width: 100%;
+	
+}
+
+.toponpage h1{
+	text-align: center;
+	font-family: Sans-serif;
+	font-size: 36px;
+ 	color: #02784D;
+}
+
+.toponpage h3{
+	text-align: center;
+	font-family: Sans-serif;
+	font-size: 24px;
+ 	color: black;
+}
+
+.formulario{
+	max-width: 650px;
+	text-align: left;
+	margin: 20px auto;
+}
+
+.wrapper{
+	display:grid;
+	gap: 10px;
+}
+
+.wrapper input{
+	width:100%;
+	padding: 12px 20px;
+ 	margin: 8px 0;
+  	box-sizing: border-box;
+}
+
+.wrapper button{
+	background-color: #04AA6D;
+	border: none;
+	color: white;
+	padding: 16px 16px;
+	text-decoration: none;
+	margin: 4px 2px;
+	cursor: pointer;
+	font-size: 24px;
+}
+
+.footer{
+	margin: auto;
+	padding-top: 20px;
+}
+
+.footer button{
+	background-color: #04AA6D;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	padding: 15px 15px;
+	text-decoration: none;
+	margin: 4px 2px;
+	cursor: pointer;
+	font-size: 14px;
+}

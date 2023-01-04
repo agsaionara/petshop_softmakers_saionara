@@ -1,0 +1,93 @@
+.container {
+	padding: 0;
+}
+
+.home{
+	//text-align: center;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	border: 3px solid #02784D;
+	padding: 10px;
+}
+
+.home h1{
+	text-align: center;
+	font-family: Sans-serif;
+	font-size: 36px;
+ 	color: #02784D;
+}
+
+.table{
+	width: 100%;
+	margin: auto;
+	border-collapse: collapse;
+	border: 1px solid #02784D;
+	text-align: center;
+}
+
+.headTable tr{
+	border-radius: 10px;
+	padding: 5px;
+	border-bottom: 1px solid #02784D;
+}
+
+.headTable th{
+	padding: 15px;
+  	text-align: center;
+	border-bottom: 1px solid #02784D;
+	background-color: #04AA6D;
+	color: white;
+}
+
+.table td{
+	padding: 10px;
+	border-bottom: 2px solid #02784D;
+	background-color: #3BB98B;
+	color: white;
+}
+
+.update{
+	background-color: #E8500C;
+	border: solid 1px;
+	border-radius: 5px;
+	color: white;
+	padding: 10px 10px;
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 12px;
+	margin:  0px 4px;
+
+}
+
+.delete{
+	background-color: #DB0501;
+	border: solid 1px;
+	border-radius: 5px;
+	color: white;
+	padding: 10px 10px;
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 12px;
+}
+
+.footer{
+	margin: auto;
+	padding-top: 20px;
+}
+
+.footer button{
+	background-color: #04AA6D;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	padding: 15px 15px;
+	text-decoration: none;
+	margin: 4px 2px;
+	cursor: pointer;
+	font-size: 14px;
+}
+
+
+
+
